@@ -1,0 +1,3 @@
+[submodule "static/candyjam"]
+	path = static/candyjam
+	url = https://github.com/cshepp/candyjam
